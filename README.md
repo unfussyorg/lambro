@@ -2,7 +2,7 @@
 
 Cutting files for the Faema Lambro.
 
-Hand-drawn emblems. Used varying line weights, radiuses, alignments, x-heights, etc to more closely match the handmade originals. Originals are made with 4mm thick material. 0.187" is easier to find in the US. Sendcutsend did a decend job lasercutting. I've updated the scale after measuring an original.
+Hand-drawn emblems. Used imperfect line weights, radiuses, alignments, x-heights, etc to more closely match the handmade originals. Originals are made with 4mm thick material. 0.187" is easier to find in the US. Sendcutsend did a decend job lasercutting. I've updated the scale after measuring an original.
 
 The serial tag is either printed or chemically etched, then hand stamped with the numbers. We'll see how they turn out, not sure exactly how the originals were made. Trying frontpanelexpress.com first. The scale is 78mm wide at the blue oval.
 
