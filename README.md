@@ -9,3 +9,13 @@ The serial tag is either printed or chemically etched, then hand stamped with th
 frontPanel.ai is the 18/8 stainless panel that covers the front controls. If you remove the gas hookup, etc you are left with unused holes, so I'm trying to recreate it. On my file, the smaller bore is for a custom power toggle switch, so remove that unless you want to do the same. I'm using 0.030" 306 stainless from sendcutsend, which is a little too thick (and not the correct alloy).
 
 Update: the front panel installed perfectly with contact cement, starting from one side and clamping along the way. Looks stock.
+
+<br>
+<br>
+<br>
+
+![tag](https://github.com/user-attachments/assets/2966e30b-63b7-4728-bb0b-179ea486fcf7)
+<br>
+<br>
+
+![lambroPrev](https://github.com/user-attachments/assets/78502822-df94-42eb-a350-89ad9351813c)
